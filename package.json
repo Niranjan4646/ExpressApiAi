@@ -1,0 +1,13 @@
+{
+  "name": "firebaseapp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "body-parser": "^1.18.3",
+    "express": "~4.16.0"
+  }
+}
